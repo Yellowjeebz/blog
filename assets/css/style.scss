@@ -1,0 +1,19 @@
+---
+---
+
+@import "minima";  // keep the base Minima theme
+
+/* Now add your overrides below */
+
+body {
+  background-color: #fdfdfd; /* light background */
+}
+
+h1, h2, h3 {
+  font-family: "Georgia", serif;
+  color: #333366;
+}
+
+a {
+  color: #0066cc;
+}
