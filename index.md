@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Home
 ---
 
 Hi, I’m Phoebe - A PwC tech degree apprentice, avid supported of Women in Tech, and part of the internal team of CyberWomen Groups C.I.C.
