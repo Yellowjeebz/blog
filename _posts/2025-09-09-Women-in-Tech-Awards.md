@@ -8,3 +8,4 @@ date: 2025-09-09
 
 <p>Though I didn't win, I was up against some very accomplished fellow apprentices; I'm still delighted to have made it to the finals, and I met so many incredible achievers at the event - bright women with incredible ideas.</p>
 
+<a href="{{ post.url }}">{{ post.title }}</a>
